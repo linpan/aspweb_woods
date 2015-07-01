@@ -1,0 +1,25 @@
+@charset "gb2312";
+/* CSS Document */
+
+body,h1,h2,h3,h4,h5,h6,div,ul,li,ol,dl,dt,dd,td,p,pre, form, fieldset, input, textarea, blockquote, th, button,em{ padding:0; margin:0;}
+img{border:0; vertical-align:top;}
+ul,dl,li{ list-style:none;}
+body{color:#656565; font-size:12px; font:Arial, 宋体, sans-serif; line-height:22px;}
+/*共用*/
+a{text-decoration:none;}
+.left{ float:left;}
+.right{ float:right;}
+.clear{clear:both;}
+/*共用结束*/
+
+.top{ height:137px; background:url(../images/top_bg.gif) repeat-x; margin:0 auto;}
+.logo{width:963px; height:58px; margin:0 auto; padding:44px 20px 0 16px;}
+.logo_r{width:140px; height:58px; text-align:right;}
+.logo_r input{width:132px; height:17px; background:url(../images/input_bg.gif) no-repeat; margin-top:10px;color:#dedede;padding:4px 0 0 8px; border:none;}
+.menu{width:974px; height:35px; margin:0 auto; padding-left:25px;}
+.menu li{width:104px; height:35px; float:left; margin-right:30px;}
+
+.bottom_jb{ height:31px; background:url(../images/bottom_jb.gif) no-repeat center 0;}
+#bottom_bg{ height:38px; margin:0 auto; background:#3a3a3a; border-top:1px solid #fff;}
+#bottom{width:984px; height:38px; margin:0 auto; padding-right:15px; line-height:38px; color:#ababab;}
+#bottom a{color:#ababab;}

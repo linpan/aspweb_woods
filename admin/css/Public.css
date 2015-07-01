@@ -1,0 +1,55 @@
+body {font-size:12px; margin:0; text-align:center; color:#30599c; background-color:#FFFFFF; padding:0;}
+a:link,a:visited {color:#30599c; text-decoration:none;}
+a:hover,a:active {color:#30599c; text-decoration:underline;}
+div {margin:0px auto; text-align:left;}
+img,ul,li,form {list-style:none; margin:0; padding:0;}
+img {border:0;}
+p {margin:8px 0;}
+.u,a.u:link,a.u:visited  {text-decoration:underline;}
+td {font-size:12px;}
+
+.c_b {clear:both;}
+.Mt-6 {margin-top:6px;}
+
+.f14 {font-size:14px; font:bold;}
+
+.cBlue,a.cBlue:link,a.cBlue:visited {color:#30599c;}
+.cBlack,a.cBlack:link,a.cBlack:visited {color:#000000;}
+.cGreen,a.cGreen:link,a.cGreen:visited {color:#4ca610;}
+.cYellow,a.cYellow:link,a.cYellow:visited {color:#ff7e00;}
+.cGray,a.cGray:link,a.cGray:visited {color:#777;}
+.cRed,a.cRed:link,a.cRed:visited {color:#fa3c3c;}
+
+
+.ipt {height:19px; border:1px solid #8db2e3; color:#369b1b;}
+.ipt2 {height:19px; border:1px solid #8db2e3; color:#999;}
+.ipt3 {border:1px solid #8db2e3; color:#333;}
+.ipt4 {height:19px; border:1px solid #8db2e3; color:#333;}
+.ipt5 {height:19px; border:1px solid #8db2e3; margin:-1px; padding:3px;}
+
+.btn1 {width:43px; height:20px; background:url(../images/Admin.gif) 0 0 no-repeat; color:#333; border:none; cursor:pointer;}
+.btn2 {width:77px; height:20px; background:url(../images/Admin.gif) 0 -21px no-repeat; color:#333; border:none; cursor:pointer;}
+.btn3 {height:18px; border:none; background-color:#5B92DB; color:#fff; cursor:pointer; margin-top:5px; padding-top:2px;}
+
+#TipBox {width:100%; height:20px; padding:7px; color:#ff5a00; font-size:14px; font-weight:bold; text-align:center; background-color:#fffca6; left:0; top:0; position:absolute; z-index:999; filter:alpha(opacity=90); -moz-opacity:0.9;}
+
+.AddBtn,a.AddBtn:link,a.AddBtn:visited {color:#ff6600; display:block; background:url(../images/aGrp.gif) no-repeat; padding-left:16px;}
+
+.Tab1_over {background-color:#5B92DB; color:#fff; cursor:pointer;}
+.Tab1_over2 {background-color:#C2D7F1; color:#30599c; cursor:pointer;}
+.Tab1 {background-color:#E4EDF9; color:#30599c; cursor:pointer;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

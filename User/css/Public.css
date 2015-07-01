@@ -1,0 +1,26 @@
+body {font-size:12px; margin:0; text-align:center; color:#30599c; background-color:#FFFFFF; padding:0;}
+a:link,a:visited {color:#30599c; text-decoration:none;}
+a:hover,a:active {color:#30599c; text-decoration:underline;}
+div {margin:0px auto; text-align:left;}
+img,ul,li,form {list-style:none; margin:0; padding:0;}
+img {border:0;}
+p {margin:8px 0;}
+.u,a.u:link,a.u:visited  {text-decoration:underline;}
+td {font-size:12px;}
+
+.ipt1 {width:150px; height:22px; border-left:1px solid #c0c0c0; border-top:1px solid #c0c0c0; border-right:1px solid #ededed; border-bottom:1px solid #ededed;}
+.btn1 {width:100px; height:22px; border-left:1px solid #ededed; border-top:1px solid #ededed; border-right:1px solid #cccccc; border-bottom:1px solid #cccccc; cursor:pointer;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

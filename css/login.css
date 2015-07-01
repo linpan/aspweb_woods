@@ -1,0 +1,20 @@
+@charset "gb2312";
+/* CSS Document */
+
+body,input,textarea,p,pre,bdo{ padding:0; margin:0;}
+img,input{border:0; vertical-align:top;}
+body{color:#828281; font-size:12px; font:Arial, 宋体, sans-serif; line-height:22px; background:#152652 url(../images/login_bg.gif) repeat-x;}
+/*共用*/
+a{text-decoration:none;}
+/*共用结束*/
+
+#bg{width:321px; height:440px; background:url(../images/login_bg1.jpg) no-repeat; margin:0 auto; padding:173px 350px 0 332px;}
+#logo{width:139px; height:32px; margin:0 auto;}
+#kh{width:321px; height:34px; margin:26px auto 15px auto;}
+#login{width:190px; height:122px; padding:10px 0 0 0px; background:url(../images/login_bgm.gif) no-repeat;color:#afcbde; margin:0 auto;}
+#login a{color:#afcbde;}
+#login p,#login span{width:172px; height:19px; color:#afcbde; margin-bottom:4px; display:block;}
+#login input{width:99px; height:17px; border:1px solid #044b76;background:#9ec6df;}
+#annu{width:78px; height:26px; margin:20px auto 0 auto;}
+input#dl{width:40px; height:26px; background:url(../images/login_dl.gif) no-repeat; border:none; margin:0;}
+input#cz{width:38px; height:26px; background:url(../images/login_cz.gif) no-repeat; border:none; margin:0;}
